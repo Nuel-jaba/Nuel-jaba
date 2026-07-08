@@ -14,7 +14,7 @@ I enjoy building pratical cyber security projects that demostrate real-world ski
 ## project
  |project | Description | Repository |
  |--------| ----------- | ---------- |
- | OSINT Investigation | Conduct an OSINT Investigation on a target Organisation | Coming Soon |
+ | OSINT Investigation | Conduct an OSINT Investigation on a target Organisation | https://github.com/Nuel-jaba/osint-project |
  | Log Analysis | Analyzed IIS and Windows Event Logs to identify attack | coming soon |
 
  ## Skills
