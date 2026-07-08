@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi , i am Emmanuel Jaba
 
-<!--
-**Nuel-jaba/Nuel-jaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me ##
+i am a cyber security student at NIIT , passionate about offensive and defensive cybersecurity.
+I enjoy building pratical cyber security projects that demostrate real-world skills in:
+- Penetration Testing
+- Log Analysis
+- Digital Forensic
+- OSINT
+- Threat Hunting
+- Social Enginnering
+- Governance Risk And Compliance
 
-Here are some ideas to get you started:
+## project
+ |project | Description | Repository |
+ |--------| ----------- | ---------- |
+ | OSINT Investigation | Conduct an OSINT Investigation on a target Organisation | Coming Soon |
+ | Log Analysis | Analyzed IIS and Windows Event Logs to identify attack | coming soon |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Skills
+ ### Operating systems 
+ - Windows
+ - linux
+
+### Networking
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+- TELNET
+
+### Cyber Security Tools
+- Nmap
+- Wireshark
+- BurpSuite
+- Splunk
+- Snort
+- Suricata
+- ELX
+- GIT
+- GitHUB
+
+## Certification
+- ISC2 CC (In Progress)
+- CompTIA Security+ (in progress)
+
+## Education 
+NIIT Port Harcourt; Cyber Security program
+
+## Contacts
+- Email: emmanueljaba126@gmail.com
+- Linkedln:
